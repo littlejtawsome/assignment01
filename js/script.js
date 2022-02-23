@@ -81,8 +81,8 @@
         //window.console.log("The user's age is : " + age);
         
 
-        //var nPie = parseFloat(3.14)
-        //window.console.log(nPie);
+        //var nPie = 3.14159;
+        //window.console.log(nPie.toFixed(3));
 
         //var a = 1; 
         //a.toString(a);
