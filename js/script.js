@@ -74,7 +74,7 @@
 
 //9.
 //var a;
-//몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라
+//몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰라몰
 //window.console.log(a+b);
 
 //var num;
@@ -104,10 +104,9 @@
 //let z = "    Welcome to the JavaScript Class!";
 //alert(x +   y + ","   + z); 
 
-////12. 
-//var name = "Jeeyoung Julie ";
-//let b = "Shin"
-//alert(a  +  b);
+////12.  뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미
+//var nAme = "Jeeyoung Julie Shin";
+//alert("My name is  " + nAme);
 
 //13.
 //let course = "JavaScript";
@@ -116,11 +115,11 @@
 //14.
 //let x = "Hello ! ";
 //let y= "Jeeyoung Julie Shin";
-//let z = "\nWelcome to the JavaScript Class";
+//let z = "\nWelcome to the JavaScript Class !";
 //alert(x +   y    + z); 
 
 //15.
-//let x = "Hello    ";
+//let x = "Hello  ";
 //let y= prompt("Your Name ?  ");
 //let z = "\nWelcome to the JavaScript Class";
 //alert(x +   y    + z); 
@@ -128,9 +127,9 @@
 //16. 
 //let x = "Hello I'm Julie ! ";
 //let z= prompt( "What is Your Class ?  ");
-//let y = " I'm taking a JavaScript Class\n";
-
-//alert(x +   y  +  "  and you are taking  a  " +z + "class!" ); 
+//let y = " I'm taking a JavaScript Class. \n";
+//
+//alert(x +   y  +  "You are taking  a  " +z + "  class!" ); 
 
 //17. 
 //var x = 10;
@@ -138,12 +137,12 @@
 //console.log(x + y);
 
 //18.
-//let x = 20;
+//var x = 20;
 //x = x +20;
 //console.log(x);
 
 //19.
-//let x = 20;
+//var x = 20;
 //x = 5 * x;
 //console.log(x);
 
@@ -161,7 +160,7 @@
 
 //let a = 10;
 //let b = 20;
-//console.log(a >= b);
+//console.log(a+b <= b);
 
 
 
