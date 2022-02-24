@@ -54,14 +54,19 @@
         //var women = true;
         //women = "Jane";
         //alert(women    + '  is a female!'); ///boolean + string = string
-
+        
         //var num = 123;
         //var bool = true;
-        //var numbool = num + bool; 
-        //alert(numbool);
-        // number + boolean= number
+        // var numbool = num + bool; 
+       //  alert(numbool);
+        //number + boolean = number
 
 //step 8.
+        //let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"';
+        //window.console.log(someString);
+
+        // or 
+        
         //let someString = `Who once said, \"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.\"`;
         //window.console.log(someString);
 
@@ -99,7 +104,7 @@
         //let z = "    Welcome to the JavaScript Class!";
         //alert(x +   y + ","   + z); 
 
-//step 12.  뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미뭥미
+//step 12.  
         //var nAme = "Jeeyoung Julie Shin";
         //alert("My name is  " + nAme);
 
